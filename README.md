@@ -103,8 +103,7 @@ The aim of this project is to predict customer conversions to term deposits usin
 
 ## Presentation
 
-For a comprehensive walkthrough of the project, you can view the [https://youtu.be/TrOpjYe8Ioc](#).  
-(*Replace `#` with the actual link to the presentation video.*)
+For a comprehensive walkthrough of the project, you can view the [project presentation video](https://youtu.be/TrOpjYe8Ioc).
 
 ---
 
@@ -112,6 +111,13 @@ For a comprehensive walkthrough of the project, you can view the [https://youtu.
 
 - Improve recall for the minority class (subscribed clients).
 - Incorporate additional data features for better predictions.
+- Design more balanced and effective marketing strategies.
+
+---
+
+Feel free to explore the files and insights provided in this repository. Contributions are welcome to enhance the project's performance and reach!
+
+
 - Design more balanced and effective marketing strategies.
 
 ---
